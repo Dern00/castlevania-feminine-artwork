@@ -42,7 +42,7 @@ Rose's opening CG, compared at the same moment. The mod example is a frame extra
 3. Open **Install Artwork Mod.cmd**.
 4. Start the game normally through Steam.
 
-The included launcher targets `J:\SteamLibrary\steamapps\common\Castlevania Belmont's Curse`. If your Steam library uses a different location, use the custom-location option below.
+The installer locates the game in your Steam libraries. If it cannot find a single installation, it asks you to paste the game folder path. You can also specify a location manually below.
 
 <details>
 <summary>Install to a different Steam library</summary>
@@ -76,3 +76,4 @@ Version 1.0 supports the exact Windows / Steam game files used to build this rel
 An unofficial fan-made visual mod, created with AI-assisted artwork edits and manual asset preparation, compositing and testing. Original characters, artwork and game assets belong to their respective rights holders. This project is not affiliated with or endorsed by the game's creators.
 
 Pull requests are disabled for this repository.
+
