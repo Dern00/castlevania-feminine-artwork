@@ -10,7 +10,7 @@ A visual mod that gives the female cast softer, more feminine illustrated design
 
 ## What it changes
 
-- **52 illustrated assets**, including dialogue portraits, speech icons, character cards, loading artwork, progress illustrations and outfit icons.
+- **53 illustrated assets**, including dialogue portraits, speech icons, character cards, loading artwork, progress illustrations and outfit icons.
 - Softer facial features and adjusted illustrated proportions, including narrower shoulders and slimmer arms where appropriate to each approved design.
 - **Six CG movies at 720p, 1080p and 1440p**: 18 replacement video files in total. The CG changes focus on facial details to match the portrait direction, with localized tracking that preserves the original camera movement and frame edges.
 - The original movie timing and both **English and Japanese audio tracks** are preserved.
@@ -76,4 +76,3 @@ Version 1.0 supports the exact Windows / Steam game files used to build this rel
 An unofficial fan-made visual mod, created with AI-assisted artwork edits and manual asset preparation, compositing and testing. Original characters, artwork and game assets belong to their respective rights holders. This project is not affiliated with or endorsed by the game's creators.
 
 Pull requests are disabled for this repository.
-
