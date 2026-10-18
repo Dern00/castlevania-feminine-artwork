@@ -15,7 +15,20 @@ A visual mod that gives the female cast softer, more feminine illustrated design
 - **Six CG movies at 720p, 1080p and 1440p**: 18 replacement video files in total. The CG changes focus on facial details to match the portrait direction, with localized tracking that preserves the original camera movement and frame edges.
 - The original movie timing and both **English and Japanese audio tracks** are preserved.
 
-The illustrated character set covers Rose and her doppelganger, Carmilla, Eleanor, Joan, Medusa, Succubus, Sypha and her alternate appearance, and the female spirit. Gameplay models, gameplay animations, combat and game balance retain their original files.
+Gameplay models, gameplay animations, combat and game balance retain their original files.
+
+## Characters updated
+
+- Rose
+- Rose's doppelganger
+- Carmilla
+- Eleanor
+- Joan
+- Medusa
+- Succubus
+- Sypha
+- Fake Sypha (alternate appearance)
+- Female spirit
 
 ## Portrait examples
 
@@ -28,6 +41,10 @@ These comparisons use the original game artwork on the left and the final mod's 
 ### Carmilla
 
 ![Carmilla dialogue portrait: original on the left, mod on the right](images/carmilla-portrait-comparison.jpg)
+
+### Succubus
+
+![Succubus dialogue portrait: original on the left, mod on the right](images/succubus-portrait-comparison.jpg)
 
 ## CG example
 
